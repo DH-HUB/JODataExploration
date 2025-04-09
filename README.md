@@ -39,20 +39,19 @@ Voici quelques visualisations extraites du notebook :
 
 Les histogrammes ci-dessous montrent que les distributions de l’âge, la taille et le poids ont été vérifiées après traitement. 
 Ces visualisations permettent de confirmer la qualité et la normalité des données utilisées.
-![image](https://github.com/user-attachments/assets/5786e64b-1d43-44b0-b0c3-d8189ceb21d1)
+![image](https://github.com/user-attachments/assets/d7f0625b-7fce-47d9-98b6-578702319de4)
 
 ### Répartition de l’âge par médaille et sexe
-![image](https://github.com/user-attachments/assets/5c2c513a-80d1-4807-87e1-0e26fec79ff4)
+![image](https://github.com/user-attachments/assets/3fc2eff3-1d0a-4bd3-9898-96a7c77ff797)
 
 ### Taille des athlètes selon le sport
-![image](https://github.com/user-attachments/assets/ebf966fc-5308-4835-b3c9-ed533829a48a)
+![image](https://github.com/user-attachments/assets/591dd2a6-b6fb-4671-8d14-4aaa34d38323)
 
 ### Évolution de l’âge dans le temps (par sexe)
-![image](https://github.com/user-attachments/assets/9b9eda2f-b3c8-49a9-8f55-ce879ccd2516)
+![image](https://github.com/user-attachments/assets/84676ac8-78bc-425d-a608-a97c5d809b71)
 
 ### Barres empilées : performances par pays (2012 vs 2016)
-![image](https://github.com/user-attachments/assets/81616953-17e8-4887-b513-72d8198279fd)
-
+![image](https://github.com/user-attachments/assets/ecb85ab0-5319-4583-9018-cdedf1baa6f5)
 
 ---
 ## Exécution du projet dans Google Colab
